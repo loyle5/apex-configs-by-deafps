@@ -12,3 +12,9 @@
 3. Open up the Videoconfig.txt with Wordpad or Notepad++.
 4. Replace everything in it with the code from [videoconfig](https://github.com/deaFPS/Apex/blob/master/videoconfig.txt)
 5. Save and make the file read-only. (also make sure your Origin Cloud Sync is disabled in the origin settings)
+# Consistant frame caping
+Use RTSS for framerate caping over build-in game engines caps. RTSS is the best in frametime consistancy.
+
+Do not use a higher cap value than 190 FPS since the game will introduce stutter (its a apex bug)
+
+You can download RTSS [here](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html)
