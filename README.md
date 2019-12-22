@@ -1,4 +1,4 @@
-# Apex
+# APEX CONFIGS & TWEAKS
 # Autoexec
 1. Go to the games directory. (Usually in C:\Program Files (x86)\Origin Games\Apex\cfg)
 2. Create there a new file called "autoexec.cfg" (without the Quotation marks)
