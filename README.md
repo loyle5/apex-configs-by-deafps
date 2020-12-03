@@ -1,4 +1,4 @@
-# APEX CONFIGS & TWEAKS
+# APEX CONFIGS & TWEAKS BY DEAFPS
 
 # Autoexec
 1. Go to the games directory. (Usually in C:\Program Files (x86)\Origin Games\Apex\cfg)
